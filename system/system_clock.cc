@@ -26,7 +26,7 @@
 //
 // System time.
 
-#include "stmlib/system/system_clock.h"
+#include "../stmlib/system/system_clock.h"
 
 namespace stmlib {
 

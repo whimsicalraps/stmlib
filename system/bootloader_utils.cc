@@ -26,7 +26,7 @@
 //
 // Function for jumping from bootloader code to application code.
 
-#include "stmlib/system/bootloader_utils.h"
+#include "bootloader_utils.h"
 
 #ifndef STM32F4XX
   #include <stm32f10x_conf.h>
